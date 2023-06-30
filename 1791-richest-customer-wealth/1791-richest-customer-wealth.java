@@ -1,3 +1,4 @@
+-[]ㄴㅇㄴ
 class Solution {
     public int maximumWealth(int[][] accounts) {
         int sum = 0;
