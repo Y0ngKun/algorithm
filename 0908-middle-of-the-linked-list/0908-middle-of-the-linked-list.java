@@ -1,3 +1,9 @@
+/*
+head의 next을 가져오는 가져오는 방법에서 시간을 너무 날렸다
+add하고 head = head.next로 값을 바꾸면 간단했다.........
+*/
+
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
