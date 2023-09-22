@@ -7,7 +7,7 @@ class Solution {
 	        	babbling[i] = babbling[i].replaceFirst("ye", "0");
 	        	babbling[i] = babbling[i].replaceFirst("woo", "0");
 	        	babbling[i] = babbling[i].replaceFirst("ma", "0");
-	        	babbling[i] = babbling[i].replace("0", "");
+	        	babbling[i] = babbling[i].replaceAll("0", "");
 	        	
 	        	if (babbling[i].equals("")) {
 					answer++;
