@@ -1,4 +1,4 @@
 <div align="center"> 
 <h1>  algorithm </h1> 
-작고 소중한 알고리즘
+(프로그래머스 || Leatcode)
 </div>
