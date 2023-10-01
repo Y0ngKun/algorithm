@@ -1,8 +1,7 @@
 class Solution {
     public String solution(int age) {
         String answer = "";
-        char[] ageChar = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n',
-        		'o','p','q','r','s','t','u','v','w','x','y','z'};
+        char[] ageChar = {'a','b','c','d','e','f','g','h','i','j'};
         	if(age >= 1000) answer = "baaa";
         	if((age >= 100) && (age<1000)) {
         		answer += ageChar[age/100];
