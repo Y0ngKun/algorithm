@@ -1,6 +1,6 @@
 <div align="center"> 
 <h1>  algorithm </h1> 
 (프로그래머스 | Leatcode)
-![코딩테스트 입문 캘린더](https://github.com/Y0ngKun/algorithm/assets/28776573/a75e7ac1-1a9d-4472-b862-a912f2b84604)
+![코딩테스트 입문 캘린더](https://github.com/Y0ngKun/algorithm/assets/28776573/6719c77a-ed6e-43cd-83d9-1df7cdd169f3.png)
 
 </div>
