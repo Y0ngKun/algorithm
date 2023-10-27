@@ -5,9 +5,7 @@ class Solution {
     public int[] solution(int[] arr) {
 		List<Integer> list = new ArrayList<Integer>();
         if(arr.length > 1) {
-        	int[] tmp = new int[arr.length];
-        	tmp = Arrays.stream(arr).boxed().sorted().mapToInt(Integer::intValue).toArray();
-        	int min = tmp[0];
+        	int min = Arrays.stream(arr).min().getAsInt();
         	for (int i = 0; i < arr.length; i++) {
         		if(arr[i]!=min) {
         			list.add(arr[i]);
